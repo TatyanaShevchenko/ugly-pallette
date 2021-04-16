@@ -1,0 +1,20 @@
+.btn-create {
+  padding: 10px 30px;
+  max-width: 300px;
+  color: #000;
+  font-size:18px;
+  font-weight: 600;
+  background-color: rgb(123, 255, 0);
+  border-radius: 15px;
+  border: 2px solid #000;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.btn-create:hover{
+  background-color: rgb(0, 255, 0);
+}
+
+.btn-create:active{
+  background-color: rgb(0, 255, 149);
+}
